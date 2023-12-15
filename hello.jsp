@@ -1,6 +1,6 @@
 <!DOCTYPE>
-<html>
-"lang" and/or "xml:lang" 
+<html lang ="fr" >
+
 <head>
 <title>Sample Application JSP Page</title>
 </head>
@@ -9,7 +9,7 @@
 <table border="0"><!-- Noncompliant -->
 <tr>
 <td =center>
-<img src="images alt="tomcat.gif ">
+<img src="images/tomcat.gif" alt="image">
 </td>
 <td>
 <h1>Sample Application JSP Page</h1>
