@@ -5,8 +5,7 @@
 <title>Sample Application JSP Page</title>
 </head>
 <body =white>
-<th>
-<table border="0"><!-- Noncompliant -->
+<th table border="0"><!-- Noncompliant -->
 <tr>
 <td =center>
 <img src="images/tomcat.gif" alt="image">
