@@ -1,13 +1,15 @@
+<!DOCTYPE>
 <html>
+"lang" and/or "xml:lang" 
 <head>
 <title>Sample Application JSP Page</title>
 </head>
-<body bgcolor=white>
-
-<table border="0">
+<body =white>
+<th>
+<table border="0"><!-- Noncompliant -->
 <tr>
-<td align=center>
-<img src="images/tomcat.gif">
+<td =center>
+<img src="images alt="tomcat.gif ">
 </td>
 <td>
 <h1>Sample Application JSP Page</h1>
